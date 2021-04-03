@@ -5,9 +5,7 @@
 # include <time.h>
 # include <stdbool.h>
 
-// Name: Armeen Rashidian
-// Student ID: 3001 6331 
-// CPSC 355, Project Part 1
+// Name: Daniel Rashidian
 
 // C program of Bomberman game 
 
